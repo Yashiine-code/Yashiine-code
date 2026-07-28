@@ -1,23 +1,45 @@
-# Hi, I'm Yashiine 👋
+# Hi, I'm Yashiine.
 
-Backend developer focused on fintech, trading systems, market data, and Web3.
+I’m interested in **markets, trading, and the systems behind them**.
 
-## What I'm building
+Trading is not a short-term theme for me. I keep studying price action, risk, execution, and the way technology changes how people interact with money. Building software is how I turn that curiosity into something concrete — one small experiment at a time.
 
-- 📈 [TradingView Breakout Alert](https://github.com/Yashiine-code/tradingview-breakout-alert) — Pine Script indicators for BTC/XAGUSD structure breakouts, pullbacks, and real-time alerts.
-- 🤖 [DeBox Auto Reply Bot](https://github.com/Yashiine-code/bottttt) — FastAPI service with Excel/CSV corpus hot reload, webhook integration, and guarded auto-send controls.
-- ⛓️ Exploring blockchain and Web3 through Monad Builder Camp.
+I’m still early, still learning, and intentionally documenting the process rather than pretending to have everything figured out.
 
-## Current focus
+## What keeps me curious
 
-- Backend APIs, webhooks, automation, and data pipelines
-- Trading infrastructure, market data, risk controls, and alert systems
-- Deepening Go, Java, and C++ for scalable and low-latency backend systems
+- **Trading & markets** — market structure, risk management, discipline, and decision-making under uncertainty
+- **Fintech & Web3** — wallets, on-chain products, and useful financial experiences
+- **Backend engineering** — APIs, automation, data flows, reliability, and security
+- **Long-term growth** — learning by building, testing ideas, and improving through feedback
 
-## Tech
+## Now building: VocabPass
 
-Python · FastAPI · Pine Script · Git · Webhooks · REST APIs
+**Learn with a deposit. Finish the book. Earn it back.**
 
-## Open to
+[VocabPass](https://web-rose-psi-39.vercel.app/) is an on-chain IELTS vocabulary learning experiment that connects learning commitment with a refundable deposit.
 
-Backend opportunities in fintech, securities/futures, funds, and crypto infrastructure.
+The latest version includes:
+
+- a 7-word learning flow on Monad Testnet
+- a 269-word IELTS book organized into learning units
+- wallet sign-in and multi-wallet support
+- wrong-word review and completion tracking
+- an experimental BSC USDT refundable-deposit flow
+
+**[Open the latest VocabPass →](https://web-rose-psi-39.vercel.app/)**
+
+<sub>Built with Next.js, Fastify, TypeScript, Solidity, wagmi, and Reown AppKit. Real-funds functionality remains guarded while the escrow deployment and safety checks are completed.</sub>
+
+## What I’m learning now
+
+I’m deepening my understanding of backend systems, smart contracts, and financial infrastructure — while continuing to trade, review my decisions, and learn from the market.
+
+My current direction is simple:
+
+> Stay curious. Manage risk. Build things that teach me something.
+
+## Connect
+
+If you’re also exploring trading, fintech, Web3, or learning in public, feel free to reach out.
+
