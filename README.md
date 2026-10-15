@@ -1,45 +1,18 @@
-# Hi, I'm Yashiine.
+# 你好，我是陈熙元（Yashiine）
 
-I’m interested in **markets, trading, and the systems behind them**.
+重庆邮电大学电子信息专业本科生。关注加密资产、美股和 Web3，喜欢把市场研究和社区运营中遇到的问题做成小工具。
 
-Trading is not a short-term theme for me. I keep studying price action, risk, execution, and the way technology changes how people interact with money. Building software is how I turn that curiosity into something concrete — one small experiment at a time.
+- 2025 年 4 月起参与加密资产二级市场交易；2026 年 5 月起接触并研究美股。
+- 平时用个人新闻信息流工具跟踪市场消息、热点事件和数据，也会记录交易笔记。
+- 正在学习市场数据处理、自动化工具和 Web3 应用开发。
 
-I’m still early, still learning, and intentionally documenting the process rather than pretending to have everything figured out.
+## 做过的项目
 
-## What keeps me curious
+- **XAUUSD Trading Trainer**：用历史黄金行情做模拟交易训练，支持多周期分析和 K 线回放。
+- [TradingView 突破提醒](https://github.com/Yashiine-code/tradingview-breakout-alert)：用 Pine Script 为 BTC 走势形态设置提醒。
+- [DeBox 社区回复机器人](https://github.com/Yashiine-code/bottttt)：根据表格中的问答内容提供回复建议，支持 Webhook 接入。
+- [VocabPass](https://web-rose-psi-39.vercel.app/)：结合钱包登录和链上押金机制的英语词汇学习实验。
 
-- **Trading & markets** — market structure, risk management, discipline, and decision-making under uncertainty
-- **Fintech & Web3** — wallets, on-chain products, and useful financial experiences
-- **Backend engineering** — APIs, automation, data flows, reliability, and security
-- **Long-term growth** — learning by building, testing ideas, and improving through feedback
+## 联系我
 
-## Now building: VocabPass
-
-**Learn with a deposit. Finish the book. Earn it back.**
-
-[VocabPass](https://web-rose-psi-39.vercel.app/) is an on-chain IELTS vocabulary learning experiment that connects learning commitment with a refundable deposit.
-
-The latest version includes:
-
-- a 7-word learning flow on Monad Testnet
-- a 269-word IELTS book organized into learning units
-- wallet sign-in and multi-wallet support
-- wrong-word review and completion tracking
-- an experimental BSC USDT refundable-deposit flow
-
-**[Open the latest VocabPass →](https://web-rose-psi-39.vercel.app/)**
-
-<sub>Built with Next.js, Fastify, TypeScript, Solidity, wagmi, and Reown AppKit. Real-funds functionality remains guarded while the escrow deployment and safety checks are completed.</sub>
-
-## What I’m learning now
-
-I’m deepening my understanding of backend systems, smart contracts, and financial infrastructure — while continuing to trade, review my decisions, and learn from the market.
-
-My current direction is simple:
-
-> Stay curious. Manage risk. Build things that teach me something.
-
-## Connect
-
-If you’re also exploring trading, fintech, Web3, or learning in public, feel free to reach out.
-
+[X：@Yashiine001](https://x.com/Yashiine001) · [Telegram：@Yashiine001](https://t.me/Yashiine001)
